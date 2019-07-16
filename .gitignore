@@ -1,5 +1,3 @@
 # Data files, except readme
-data/*.txt
-data/*.csv
-data/*.zip
-data/*.gz
+data/*
+!data/README.md
